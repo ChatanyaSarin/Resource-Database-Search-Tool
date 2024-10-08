@@ -150,7 +150,6 @@ def update_shelters_from_search (suggested_shelters: pd.DataFrame) -> pd.DataFra
 
     return suggested_shelters
 
-st.write(st.session_state)
 resource_dataframe = process_resource_dataframe(dataframe_path)
 client_information = get_client_information()
 suggested_shelters = get_suggested_shelters(client_information, resource_dataframe)
