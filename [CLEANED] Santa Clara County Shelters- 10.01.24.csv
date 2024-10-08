@@ -1,0 +1,182 @@
+,Unnamed: 0,Category,Shelter Agency,Shelter Address,Site Description,Phone Operating Hours,Website,Phone #,Jurisdiction ,# of Units,# of Beds,Congregate?,Setting Type,Veterans,Single Adult,Adult (18 - 24),Adult Men,Adult Women,Family ,Young Families (parents 18-24),Child(ren) (0 - 5),Child(ren) (12 - 17),Child(ren) (0 - 17),Populations Served,Sex Offender,Rent?,Eligibility Criteria,Meals Offered,Services & Amenities,Here4You,How to Apply,Application Requirements,Notes,Email,Additional Notes,Shelter Name,Latitude,Longitude
+0,0,Shelter,Asian Americans for Community Involvement (AACI),"2400 Moorpark Aven, Ste 300, San Jose, CA 95128",,24/7,https://aaci.org/wellness/womens-home/get-help/,408 975 2739,,4,10,False,4 rooms,False,True,False,True,True,False,False,False,False,TRUE,Man or woman with or without child(ren) fleeing domestic violence,FALSE,No,Actively fleeing domestic violence,TRUE,"*Can stay up to 6 weeks. Extension of stay is possible, case by case",False,Call 408 975 2739,https://aaci.org/wellness/womens-home/,Pets not allowed,,Called 408 975 2730 x 224 to get through to Asian Women's Home,Asian Women's Home,37.3157247,-121.93711645
+1,1,Bridge Housing Unit,HomeFirst,No Address,"Maybury Rd, South Flea Market & Berryessa BART station ",,https://www.homefirstscc.org/interim-housing,,City of San Jose,40,40,False,"Non congregate, single sleeping cabins",False,True,False,False,False,False,False,False,False,FALSE,Adults,FALSE,,"No convictions for arson, meth manufacturing, sex offenses; ability to pay minimal rent; employed or employment ready; RRH eligible",TRUE,Required services engagement; ILP workshops,False,Referral by HomeFirst Outreach,,VTA owned property,,Kamron Phinney (he). 669 308 0394. kphinney@homefirstscc.org,BHC Maybury (Bridge Housing Communities) Site #1,,
+2,2,Bridge Housing Unit,HomeFirst,No Address,Felipe Ave / Caltrans ROW,,https://www.homefirstscc.org/interim-housing,,City of San Jose,40,40,False,"Non congregate, single sleeping cabins",False,True,False,False,False,False,False,False,False,FALSE,Adults,FALSE,,"No convictions for arson, meth manufacturing, sex offenses; ability to pay minimal rent; employed or employment ready; RRH eligible",FALSE,Required services engagement; ILP workshops,False,,,Caltrans owned property,,Kamron Phinney (he). 669 308 0394. kphinney@homefirstscc.org,BHC Felipe (Bridge Housing Communities) Site #2,,
+3,3,Shelter,HomeFirst,"2011 Little Orchard St, San Jose, CA 95125",,,https://www.homefirstscc.org/emergency-shelters,"(408) 294-2100
+
+408 510 7521",Santa Clara County,,250,True,congregate emergency  shelter for adults and veterans,True,True,False,False,False,False,False,True,False,FALSE,"*Adults
+*Veterans",FALSE,,Must check in each day for a bed,FALSE,"adults are provided with a place to sleep and shower, 3 meals daily, and access to an array of supportive services. ",True,,,,,,Boccardo Reception Center,37.303486,-121.8708363
+4,4,,HomeFirst,"2011 Little Orchard St, San Jose, CA 95125",,,,408 510 7543,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,,,,BRC Medical Respite Program,37.303486,-121.8708363
+5,5,Shelter,Bill Wilson Center,"693 S. 2nd Street, San Jose, CA 95112",,10am - 7:30pm,https://www.billwilsoncenter.org/services/all/drop.html,408 925 0231,,,10,True,,False,False,True,False,False,False,False,False,False,FALSE,Homeless youth ages 18-24,FALSE,No,"*Homeless
+*18-24
+*No pets
+*Able bodied","TRUE
+Snacks, microwave meals",,False,Internal referral by BWC ,,"Cannot miss more than 2 nights
+Max 90 days. can apply for Young Adult Shelter",,,BWC Drop-In Center,37.3261343,-121.8820153149424
+6,6,Shelter,Bill Wilson Center,"3490 The Alameda, Santa Clara, CA 95050",,8am to 5pm,https://www.billwilsoncenter.org/services/all/runaway.html,408 243 0222,Santa Clara County,6,12,False,"2 beds in a room
+Emergency Shelter & Interim housing (up to ",False,False,False,False,False,False,False,False,True,FALSE,12-17 year olds,FALSE,No,"12-17 year old youth who are homeless, have run away, or need a safe haven","TRUE
+3 meals plus snacks","Reunification services, stabilizations, case management, family counseling, ILS, rec therapy",False,Call,,"9/25/2024 - called Angeleena Yeldell, director of Safety Net Shelter
+*18 if in high school
+*stay 21 - 30 days, up to 90 days
+*Undocumented OK
+*Parent or guardian must sign papers, if not, youth can stay up to 10 days",,,BWC Safety Net Shelter,37.35388215,-121.94172052270105
+7,7,Shelter,Bill Wilson Center,"713 Fremont Street, Santa Clara, CA 95050",,,,408 444 5160,,3,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,,,Miranda Alcantar. Program Manager YAFS/TH-RRH. 408 444-5160. MAlcantar@bwcmail.org,BWC Young Adult Family Shelter (YAFS),37.35308946103508,-121.94180658320946
+8,8,Shelter,Bill Wilson Center,"693 S. 2nd Street, San Jose, CA 95112",Same place with the BWC drop-in center,10am - 7:30pm,https://www.billwilsoncenter.org/services/all/yafs.html,408 925 0231,Santa Clara County,,10,True,Shelter & Interim housing (up to 90 days stay),False,False,True,False,False,False,False,False,False,FALSE,Young adults,FALSE,,"Must go to school or work
+No pets. ",TRUE,"Life skills courses, case management, rental assistance, housing relocation, stabilization services",False,,,*Not Young Adult Family Shelter which is a separate shelter,,,BWC Young Adult Shelter (YAS),37.3261343,-121.8820153149424
+9,9,Shelter,San Jose Catholic Worker,"318 N. 6th Street, San Jose, CA 95112",,,,408 297 8330,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,Wrong phone #,,,Casa De Clara,37.3436518,-121.88855949164083
+10,10,Emergency Interim Housing,Amigos de Guadalupe Center for Justice and Empowerment,"810 N. First Street, San Jose, CA 95110",,,,,City of San Jose,,,False,Noncongregate- using Pallet shelters,False,False,False,False,False,True,False,False,False,TRUE,Families witih minor children ,FALSE,,,TRUE,,True,,,Interim housing for families with case management and support transitioning to permanent housing,,,Casitas de Esperanza,37.3732439,-121.9183798
+11,11,Shelter,City Team,"435 N 3rd St, San Jose, CA 95112",,,,408 294 1238,,8,16,False,Pregnent women or women with child(ren) of under 1 year old,False,False,False,False,True,False,False,True,False,FALSE,women who are new or expectant motners who are unoused or at risk of experiencing homelessness,FALSE,Pay program fee which is determined by their income,"Must have income, or eligible to have income (e.g. CalWORKs, GA, etc.)",TRUE,"They can stay for 6-12 months.
+Women in recovery from substance abuse, but not required",False,Call Heritage Home for phone screening.,,"Women and new baby: under 1. 6-12 months. Call to do phone screen.
+Receive CalWORKs. Pay a prog fee based on income. 
+Recovery or clean",,,CityTeam Heritage Home,37.3442621,-121.8941407511249
+12,12,Shelter,City Team,"1174 Old Bayshore Hwy, San Jose, CA 95112",,,,408 288 2153,City of San Jose,,28,True,congregate shelter for men; ,False,False,False,True,False,False,False,False,False,FALSE,Men,FALSE,5,Able bodied.,TRUE,"*Breakfast & dinner for everyone regardless if staying in shelter
+*9 locker $15/mon/each, access at night",False,"Line up at 3:30pm. Dinner at 5pm. Check in at 6pm, Checkin cut off at 7pm; first come first serve after people who pay $5. First time at shelter will be guaranteed a bed. Two lines: (1) free; (2) $5/night. Line 2 has priority",,"*WQE visited 9/22/2024
+Dinner starts at 5pm. Breadkfast: 9am. Meals are open to anyone, not only shelter residents",,,CityTeam Men's Shelter,37.364342371853205,-121.89603851094438
+13,13,,City Team,"1174 Old Bayshore Hwy, San Jose, CA 95112",,,https://www.cityteam.org/get-help-programs/san-jose-mens-residential-programs,408 288 2153,,,48,True,*2 dorms; 24 beds in each dorm; bunker beds,False,False,False,True,False,False,False,False,False,FALSE,,FALSE,$300/month,"*Be able to work.
+*Sober & clean
+*Cannot be receiving SSI, SSDI or employment",TRUE,,False,,,*must get in by 10am. Can leave as early as $am,Info@cityteam.org,,CityTeam Turning Point (transitional housing),37.364342371853205,-121.89603851094438
+14,14,,City Team,"4305 Arpeggio Street, San Jose, CA 95136",,,,408 232 5630,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,"Transitional housing program for young women, 18 to 24, providing a bridge to independent adult living",,,CityTeam Youth Collective,37.27098025,-121.84156853533725
+15,15,,,"2250 El Camino Real, Santa Clara, CA 95050",,,https://covenanthousecalifornia.org/housing-programs/,408 703 9503,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,9/25/2024 - WQE called and left a vm,info@covenanthousecalifornia.org,"*Shelby Booker, director of SCC Programs, Covenant House CA. 408 703 9502 x 1201
+*Alejandra Hernandez-Barajas, Residential Manager, Covenant House CA. 408 703 9503 x 1202; 408 669 0731; abarajas@covca.org
+* Nikole Dunie, Lead RRH CM, Covenant.  House CA, Santa Clara. ndunie@covca.org 415 735 4824",Covenant House,37.3518545,-121.9642375147984
+16,16,Shelter,Covenant House,No Address,,,,,,,,False,Emergency,False,False,False,False,False,False,False,False,False,FALSE,TAY 18-24,FALSE,,,FALSE,,False,,,"Our emergency shelter programs, where CHC immediately provides for youths’ basic human needs and urgent medical care. They receive a nutritious meal, take a shower with new personal care products, receive new clothes, and sleep in a warm, safe bed. They are then connected to supportive services that will help them thrive.",,,Covenant House Safe Haven ,,
+17,17,,Covenant House,No Address,Transitional housing,,,,,,,False,Transitional ,False,False,True,False,False,False,False,False,False,FALSE,TAY 18-24,FALSE,,,FALSE,,False,,,"Two-Year on-site transitional living program
+CHC’s transitional housing program allows young people to refine their independent living skills. For up to two years, they live on campus healing from the trauma they suffered on the streets. They learn to save money and budget to pay rent, utilities and other necessities. They save their money for their first apartment and focus on earning a living wage. ",,,Covenant House Rights of Passage,,
+18,18,,Covenant House,No Address,,,,,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,"Two-Year off-site transitional living program
+Youth with a higher level of life skills are placed into our Supportive Apartment program, which provides financial assistance to youth living in off-campus apartments. During their stay CHC provides an ever-lowering percentage of their rent until they are paying the full amount. Youth in this program are responsible for the rest of their bills and personal expenses are continue to have access to all of CHC’s supportive services.",,,Covenant House Supportive Apartment Programs,,
+19,19,,,No Address,RRH,,,,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,"Permanent housing, supported by CHC up to 24 months, before youth takes over
+H20 is CHC’s Rapid Re-Housing program which features short-term housing assistance along with all of CHC’s supportive services. Case managers work with youth and local landlords to find appropriate apartments, then assist youth with move-in costs, rental assistance and weekly case management to ensure success. After two years youth take over their apartment leases.",,,Covenant House H2O Hope2Opportunity,,
+20,20,Emergency Interim Housing,HomeFirst,"6066 Monterey Rd., San Jose, CA 95138??",,,,,City of San Jose,78,78,False,"non congregate, single sleeping cabins",False,True,False,False,False,False,False,False,False,FALSE,Adults,FALSE,,"No convictions for arson, meth manufacturing, sex offenses; ability to pay minimal rent; employed or employment ready; RRH eligible",TRUE,Required services engagement; ILP workshops,False,,,"Private showers & restrooms
+Computer lab
+Garden
+Dog run",,Kamron Phinney (he). 669 308 0394. kphinney@homefirstscc.org,EIH Bernal Site #1,37.2391225,-121.7733209
+21,21,Emergency Interim Housing,HomeFirst,"5898 Rue Ferrari, San Jose, CA 95138",,,,,City of San Jose,98?,124?,False,Non-congregate sleeping cabins for individual adults and couples,False,True,False,False,False,False,False,False,False,FALSE,"*Adults and 
+*Couples",FALSE,,"No convictions for arson, meth manufacturing, sex offenses; ability to pay minimal rent; employed or employment ready; RRH eligible",TRUE,Required services engagement; ILP workshops,False,,,"Private showers & restrooms
+Computer lab
+Garden
+Dog run",,Kamron Phinney (he). 669 308 0394. kphinney@homefirstscc.org,EIH Rue Ferrari (Site #2),37.246617,-121.773241
+22,22,Emergency Interim Housing,LifeMoves,"702 Guadalupe Pkwy, San Jose, CA 95110",Near Guadalupe River Park,,,,City of San Jose,96,96,False,"non congregate, single sleeping cabins",False,True,False,False,False,False,False,False,False,FALSE,Adults,FALSE,,"No convictions for arson, meth manufacturing, sex offenses; ability to pay minimal rent; employed or employment ready; RRH eligible",FALSE,"Showers, common kitche, laundry, storage, meeting rooms, staff offices, community garden space, community space. Required services engagement ",False,,,City owned property ,,,EIH Site #4 ,37.3503006,-121.9092747
+23,23,Emergency Interim Housing,PATH,"2078 Evans Lane, San Jose, CA 95125",It is basically a shelter,,https://epath.org/wp-content/uploads/2024/05/PATH_SantaClaraFactSheet2024_FINAL.pdf,408 753 8735,City of San Jose,48,121,False,Tiny house,False,False,False,False,False,True,False,False,False,TRUE,Families witih children under 18,"TRUE
+Maybe",No,"Following are asked but not required:
+*Current ID of any kind
+*SS card. OK not have it
+*Birth cert from any country
+*Income verification. OK not have income
+*Medical insurance card",TRUE,"Case management
+Housing support
+Employment support",True,,"*Here4You only refer people living in SJ to Evans Lane
+*Parent must have documents showing having custody of child(ren)","City owned property which is managed by Abode
+*One pet/unit
+*Shelly Colclough. CM at Evans Lane. Cell: 669 293 1030. ShellyC@epath.org
+Sat 7am - 3:30pm Sun - Wed: 12:30pm - 9pm",,"*4 full time case managers. Each manage 12 families. Meet once a week
+*Use HMIS for CM",Evans Lane (Emergency Interim Housing Community #3) ,37.301757615384616,-121.87653792307692
+24,24,Shelter,Salvation Army,"405 N 4th St, San Jose, CA 95112",,,https://siliconvalley.salvationarmy.org/silicon_valley/emmanuel-house,408 282-1175,Santa Clara County,,30,True,"congregate shelter, men only; overnight stays; 42 for TLP ",False,False,False,True,False,False,False,False,False,FALSE,Adult Men,"
+
+No ",No,"Must pass a breathalyzer each day; men only 
+*must have a valid gov issued ID. Valid out of state ID and foreign passports are acceptable","TRUE
+
+7:15am - 8am Mon-Sat
+5:15pm - 6pm Mon-Sat
+
+Meals are offered to everyone, not limited to shelter residents","Showers
+dinner, continental breakfast every day except on Sundays",False,"Line up for overnight beds at 3:30pm
+
+If there are more than 30 men lined up, then lottery",,"*WQE visited shelter 9/22/2024
+Only open nightly; must register and pass a breathalyzer each day; 
+*disability? OK. if they can take care of themselve. 
+",,,Emmanuel House (Overnight),37.3440692,-121.8927628
+25,25,Shelter,"Family Supportive Housing, Inc.","692 N King Rd, San Jose, CA 95133",,??,,408 926 8885,Santa Clara County,35,,False,Each unit has more than one bed depending on family size,False,False,False,False,False,True,False,False,False,TRUE,"*Single and 
+*two parent families
+*Child(ren) 0-18",FALSE,"$50 deposit
+$50/month fee",Literally homeless family,TRUE,"*Case management, 
+*housing, 
+*employment referrals, 
+*parenting classes, 
+*onsite licensed daycare",,"*Fill out SJ Shelter Waitlist online: https://www.tfaforms.com/4865266 
+*Call Family Supportive Housing",Must have SS card and ID card or birth cert,single and two parent families only,,,Family Supportive Housing,37.3661452,-121.8683013
+26,26,Emergency Interim Housing,HomeFirst,No Address,,,https://www.homefirstscc.org/interim-housing,,,70,,False,A motel in SJ,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,TRUE,,False,HomeFirst outreach,,,,,First Street EIH,,
+27,27,Shelter,LifeMoves,"260 Commercial Street, San Jose CA 95112",,,https://www.lifemoves.org/directory/georgia-travis-house/,408 271 1630,City of San Jose,"12 family units
+15 single units",51,False,non congregate shelter for single women and families ,False,False,False,False,True,True,False,False,False,TRUE,"*Families witih minor children 
+*Single woman 18+
+*No single adult man without a child or partner",FALSE,0,,TRUE,Case management,True,,,"Can stay for up to 90 days
+*Do adults have to have a valid ID
+*Do children have to have birth cert?",,,Georgia Travis House (GTH),37.3600757,-121.90082898094848
+28,28,Shelter,LifeMoves,"813 Alice Ave, Mountain View, CA 94041",3-br house,,https://www.mountainview.gov/our-city/departments/city-manager-s-office/human-services/homelessness/sheltering-services,650 685 5880,,3,8,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,,,,Graduate House,37.38087437744806,-122.06694632407518
+29,29,Shelter,HomeFirst,"8490 Wren Ave Gilroy, CA 94020",in the National Guard Armory building,,https://www.homefirstscc.org/emergency-shelters,408 848 8023,,,120,True,,False,False,False,True,True,True,False,False,False,FALSE,,FALSE,0,,FALSE,,True,,,,,,Gilroy Shelter,37.0205721,-121.5859958
+30,30,Shelter,,"10 Kirk Ave, San Jose, CA 95127",,,http://veteranshousingfacility.org/,408 533 0228,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,"9/25/2024 - WQE called the shelter and was told it will be shutdown for remodeling. No one knows how long the remodel will be. 
+I was told to call HomeFirst at 669 308 1214 to get info about shelter for veterans.",,,Homeless Veterans Emergency Housing Facility (HVEHF),37.3769307,-121.82151261388108
+31,31,Shelter,LifeMoves,"January: Trinity Lutheran Church, 1295 Middlefield Road, Palo Alto
+February: Wesley Methodist Church, 463 College Avenue, Palo
+March: First Congregational Church, 1985 Louis Road, Palo Alto
+April: The Highway Community, 3373 Middlefield Road, Palo Alto
+May: Peninsula Bible Church, 3505 Middlefield Road, Palo Alto
+June: First Methodist Church, 625 Hamilton Avenue, Palo Alto
+July: First Presbyterian Church, 1140 Cowper Street, Palo Alto
+August: St. Mark’s Episcopal, 600 Colorado Avenue, Palo Alto
+September: Unitarian Church, 505 E. Charleston Road, Palo Alto
+October: All Saints’ Episcopal Church, 555 Waverley Street, Palo Alto
+November: Menlo Church, 950 Santa Cruz Avenue, Menlo Park
+December: Friends Meeting, 957 Colorado Avenue, Palo Alto",Palo Alto,8am - 4pm,https://www.lifemoves.org/directory/opportunity-services-center/,650 656 9840,City of Palo Alto,,10,True,congregate shelter rotating at various churches,False,True,False,False,False,False,False,False,False,FALSE,Adults,"TRUE
+case by case",0,,"TRUE
+Hot meal dinner
+Snacks for breakfast","emergency food, shelter, and case management services ",True,,,"Emergency program that alternates locations through congregations in Palo Alto and surrounding neighborhoods. Clients can stay up to 90 days with possibility of 30 day extension
+*Max of two suitcases can be storage 
+*Foot lockers can be locked with your own lock. 
+*Door opens at 7pm and closes at 10pm. Leave by 7am in the morning.
+*Sober environment. No alchoho or drugs. ",,,Hotel de Zink,,
+32,32,,CityTeam,No Address,,,,,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,,,,House of Grace,,
+33,33,Shelter,LifeMoves,"546 West Julian Street, San Jose, CA 95110",,8:30 am - 6 pm,https://www.lifemoves.org/adult-services/?q=&in_cat=39,408 271 0820,City of San Jose,,85,True,congregate shelter setting,True,True,False,False,False,False,False,False,False,FALSE,"*Adults 
+*Veterans
+*Adults with mental illness",FALSE,,,FALSE,"Case manegement with mental health case manager
+One on one counseling and support groups
+Can stay for 60 days",True,,Social Security number,Adults with mental health issues,,,Julian Street Inn,37.3353436,-121.90303892339384
+34,34,Shelter,LifeMoves,"2566 Leghorn Street, Mountain View, CA 94043",,8:30 am - 6 pm,https://www.lifemoves.org/homekey/,650 537 4728,City of Mountain View,100,124,False,Noncongregate,False,True,False,False,False,True,False,False,False,TRUE,"*Families, 
+*couples, and 
+*adults
+Prioritizing seniors",FALSE,,,FALSE,"Intensive case management
+Classes on financial literacy, employment, etc.",True,,,,,,LifeMoves Mountain View,37.41938838318693,-122.09996621177106
+35,35,Shelter,LifeMoves,No Address,San Jose,"358 North Montgomery Street, San Jose, CA 95110
+            ",,408-271-5160,City of San Jose,,90,False,congregate shelter for men; 20 beds dedicated to Veterans,True,False,False,True,False,False,False,False,False,FALSE,"*Men
+*male veterans",FALSE,,"Identify as a man, male Vet",FALSE,"emergency and transitional housing with case management, Veteran's services, medical respite care, other ss.",False,,,,,,Montgomery Street Inn,,
+36,36,Shelter,HomeFirst,No Address,,,,,Santa Clara County,,50,False,Cold weather shelter-congregate setting ,False,False,False,False,True,True,False,False,False,FALSE,"*Families and 
+*single women ",FALSE,,"Literally homeless, live in North County, referred from North County provider",FALSE,"LifeMoves provides light case management, manages, basic needs services. CSA provides intensive case management . ",True,,,,,,Mountain View Winter Shelter,,
+37,37,Shelter,Next Door Solutions to Domestic Violence,San Jose,,24/7,https://www.nextdoorsolutions.org/services/housing/,408 279 2962,,4,19,True,4 rooms plus a big room for congregate sleeping arrangement,False,False,False,False,True,False,False,False,False,"TRUE
+up to 18",Women & children of up to 18,FALSE,No,Fleeing domestic violence victims,"FALSE
+has a kitchen. don't provide meals",,False,Call: 408 279 2962,,"*Pets are allowed
+*Men not allowed
+*Next Door can provide transportation to the shelter
+*Stay up to 30 days
+*If the shelter is full, Next Door can provide a few days hotel voucher",,,Next Door Shelter,,
+38,38,Shelter,LifeMoves,No Address,San Jose (confidential location),,https://www.lifemoves.org/directory/new-haven-inn/,,City of San Jose,,,False,,False,True,False,False,False,False,False,False,False,FALSE,"*LGBTQ
+*adults",FALSE,,Identify as LGBTQ+,FALSE,population specific services ,False,Referral Only,,,,,New Haven Inn,,
+39,39,Shelter,HomeFirst,"999 Hamlin Ct, Sunnyvale, CA 94089",,,,,Santa Clara County,,125,True,Congregate emergency shelter for adults,False,True,False,False,False,False,False,False,False,FALSE,Adults,FALSE,,Must be an adult in SCC; ,FALSE," case management, basic needs services provided by HomeFirst, medical care, clinical SW, workshops, bene enrollment provided by other providers. Shuttle services provided ",True,,,transitioning to family shelter; not taking referrals at this time,,,North County Shelter Program,37.4016723,-122.0298576
+40,40,Shelter,,"884 Lafayette St Santa Clara, CA 95050",,,https://www.billwilsoncenter.org/services/all/quetzal.html,408 243 0222,,,40,False,,False,False,False,False,False,False,False,False,False,FALSE,Girls ages 13-17 who are in foster care,FALSE,,Girls ages 13-17 who are chronic runaways from the Santa Clara County Foster Care System,FALSE,,False,,,9/25: not in operation,,,Quetzal House,37.34892857481909,-121.94284948753509
+41,41,Shelter,,No Address,,,www.razingthebar.org,669 295 2180,,,,False,,False,False,False,False,False,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,,information@razingthebar.org,,Raising the Bar,,
+42,42,Bridge Housing Unit,Salvation Army,"405 N 4th St, San Jose, CA 95112",,,,408 282-1175,,,60,True,dorm with bunker beds,False,False,False,True,False,False,False,False,False,FALSE,,FALSE,$480/month,"*Proof of income
+*Government issued picture ID, not have to be CA ID","TRUE
+
+Breakfast and dinner every day except Sunday",,False,"*Apply in person
+*Call",,Shelter beds for men only. You may remain in the program for two years. Individuals receiving disability benefits or other fixed income pay a monthly fee of $480. ,,,Salvation Army Bridge Housing,37.3440692,-121.8927628
+43,43,Shelter,Community Solutions,South County,,24/7,https://www.communitysolutions.org/,877 363 7238,,,,False,Location is confidential,False,False,False,False,True,False,False,False,False,FALSE,"*Adult women 18+
+*Women with children up to 17",FALSE,No,"*Domestic violence victim; fleeing abuse
+*Homelessness not required
+*Also take adult male who live in South County (i.e. Gilroy and Morgan Hill)","FALSE
+Basic food",,False,Call 877 363 7238,"*initial phone intake
+*in person intake in South County","*Male domestic violence survivors living in Sounth County may get motel vouchers
+*Can stay at the shelter or motel for up to 30 days",,"(1) Brandywine THU - 8
+(2) El Inviemo TH Gilroy - 11
+(3) FDO/Prop 47 -4
+(4) FSP THU Gilroy - 5
+(5) John Telfer THU - 5
+(6) Maria Way - 6
+(7) Walnut Lane Home TH - 4",STV (Solution to Violence),,
+44,44,Emergency Interim Housing,HomeFirst,No Address,,,https://www.homefirstscc.org/interim-housing,,,89,,False,Motel,False,True,False,False,False,False,False,False,False,FALSE,,FALSE,,,TRUE,,False,HomeFirst outreach,,,,,The Arena EIH,,
+45,45,Shelter,The Dream House Inc.,No Address,,,www.thedreamhouseinc.com,408 639 3090,,,,False,,False,False,False,False,True,False,False,False,False,FALSE,,FALSE,,,FALSE,,False,,,Independent living for women. Recovery transitional housing / Halfway house,,,The Dream House,,
+46,46,Shelter,LifeMoves,No Address,,,,,City of San Jose,"15 family units (5 family units reserved for Veteran families)
+18 single units",63,False,Noncongregate,True,False,False,False,True,True,False,False,False,FALSE,*Families and single adult women and *Veteran families ,FALSE,,,FALSE,,False,,,,,,Villa,,
+47,47,Shelter,LifeMoves,No Address,San Jose,,,,City of San Jose,"15 family units 
+18 single units",63,False,non congregate shelter for single women and families ,False,False,False,False,True,True,False,False,False,FALSE,"*Single women, *families",FALSE,,,FALSE,,False,,,,,,Villa ,,
+48,48,Shelter,YWCA,Confidential location,,24/7,,800 572 2782,,,,False,,False,False,True,False,False,False,False,False,False,FALSE,"Adults 18+ of all gender.
+Adults with children under 18",FALSE,0,"Fleeing domestic violence, sexual assault or human trafficking",Case by case,"Emergency assistance for battered individuals, domestic violence, sexual assault and human trafficking; shelter, counseling, advocacy ",False,Call the 800 #,,"Can stay for 2 nights
+Transportation is possible
+",Info@ywca-sv.org,,YWCA Emergency Housing,,
