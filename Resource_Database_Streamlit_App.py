@@ -7,7 +7,7 @@ from streamlit_folium import st_folium
 st.set_page_config(layout = "wide")
 button_session_states = ["next_button", "back_button", "clear_client_info"]
 
-dataframe_path = "[CLEANED] Santa Clara County Shelters- 10.01.24.csv"
+dataframe_path = "Resource Database Datasets/[CLEANED] Santa Clara County Shelters- 10.01.24.csv"
 
 client_information_inputs = [
     "Veterans",
@@ -55,6 +55,10 @@ def automatic_checkbox_checking ():
             if key not in button_session_states:
                 st.session_state[key] = False
 
+def update_shelter_search_terms_on_enter ():
+    if st.session_state["shelter_search_terms"] != "":
+        st.session_state["current_shelter_idx"] = 0
+
 def get_client_information () -> list:
     client_information_inputs = {
         "Adult (18 - 24)": "Young Adult (18 - 24) Shelter",
@@ -89,7 +93,8 @@ def get_client_information () -> list:
 
     shelter_search_terms = st.text_input(
         "Search For Shelters",
-        key = "shelter_search_terms"
+        key = "shelter_search_terms",
+        on_change = update_shelter_search_terms_on_enter
     )
     
     return client_information
@@ -145,6 +150,7 @@ def update_shelters_from_search (suggested_shelters: pd.DataFrame) -> pd.DataFra
 
     return suggested_shelters
 
+st.write(st.session_state)
 resource_dataframe = process_resource_dataframe(dataframe_path)
 client_information = get_client_information()
 suggested_shelters = get_suggested_shelters(client_information, resource_dataframe)
@@ -280,7 +286,7 @@ def scrollthrough_shelters ():
         return
     
     not_buttons = [key for key in st.session_state.keys() if key not in button_session_states]
-    
+
     if st.session_state["back_button"]:
         if 'current_shelter_idx' not in st.session_state:
             st.session_state['current_shelter_idx'] = 1
