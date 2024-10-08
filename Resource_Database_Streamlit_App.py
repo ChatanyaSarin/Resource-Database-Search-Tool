@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import folium
 from streamlit_folium import st_folium
-from streamlit_js_eval import get_geolocation
-import math
 
 st.set_page_config(layout = "wide")
 button_session_states = ["next_button", "back_button", "clear_client_info"]
