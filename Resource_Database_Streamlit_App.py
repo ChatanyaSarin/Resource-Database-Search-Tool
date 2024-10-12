@@ -7,10 +7,11 @@ from streamlit_folium import st_folium
 st.set_page_config(layout = "wide")
 button_session_states = ["next_button", "back_button", "clear_client_info"]
 
-dataframe_path = "[CLEANED] Santa Clara County Shelters- 10.01.24.csv"
+dataframe_path = "Resource Database Datasets/[CLEANED] Santa Clara County Shelters- 10.11.24.csv"
 
 client_information_inputs = [
     "Veterans",
+    "Survivors of Domestic Violence & Human Trafficking",
     "Adult (18 - 24)",
     "Adult Men",
     "Adult Women",
@@ -24,7 +25,7 @@ client_information_inputs = [
 
 @st.cache_data
 def process_resource_dataframe (dataframe_path: str) -> pd.DataFrame:
-    resource_dataframe = pd.read_csv(dataframe_path)
+    resource_dataframe = pd.read_csv(dataframe_path).drop("Unnamed: 0", axis = 1)
     return resource_dataframe
 
 def automatic_checkbox_checking ():
@@ -40,7 +41,6 @@ def automatic_checkbox_checking ():
 
     if st.session_state["Young Families (parents 18-24)"] == True:
         st.session_state["Family "] = True
-
 
     if st.session_state["Child(ren) (0 - 5)"] or st.session_state["Child(ren) (12 - 17)"]:
         st.session_state["Child(ren) (0 - 17)"] = True
@@ -62,14 +62,15 @@ def update_shelter_search_terms_on_enter ():
 def get_client_information () -> list:
     client_information_inputs = {
         "Adult (18 - 24)": "Young Adult (18 - 24) Shelter",
-        "Adult Men": "Men's Shelter",
-        "Adult Women": "Women's Shelter",
-        "Family ": "Family Shelter",
-        "Young Families (parents 18-24)": "Young Family (parents 18 - 24) Shelter",
+        "Survivors of Domestic Violence & Human Trafficking": "Shelters For Survivors of Domestic Violence & Human Trafficking",
+        "Adult Men": "Shelters For Men",
+        "Adult Women": "Shelter For Women",
+        "Family ": "Shelters For Families",
+        "Young Families (parents 18-24)": "Shelters For Young Families (parents 18 - 24)",
         "Child(ren) (0 - 5)": "Shelters For Families With Young Children (0 - 5)",
         "Child(ren) (12 - 17)": "Shelters For Families With Children 12 - 17",
         "Child(ren) (0 - 17)": "Shelters For Families With Children 0 - 17",
-        "Veterans": "Veteran Shelters"
+        "Veterans": "Shelters For Veterans"
     }
 
     client_information = []
@@ -194,25 +195,23 @@ def create_shelter_information (shelter_name: str, suggested_shelters: pd.DataFr
     
     columns_to_show = [
         "Category",
-        "Shelter Agency",
-        "Distance From User",
+        "Shelter Managed By",
+        "Congregate?",
         "Site Description",
         "Phone #",
+        "Populations Served",
         "Phone Operating Hours",
         "Eligibility Criteria",
         "Website",
         "# of Units",
         "# of Beds",
-        "Congregate?",
         "Setting Type",
-        "Rent?",
+        "Rent / Program Fee",
         "Meals Offered",
         "Services & Amenities",
         "Here4You",
         "How to Apply",
-        "Application Requirements",
-        "Notes",
-        "Jurisdiction ",
+        "Application Requirements"
     ]
 
     columns_to_remove_if_null = [
@@ -235,6 +234,13 @@ def create_shelter_information (shelter_name: str, suggested_shelters: pd.DataFr
 
         if (column == "Application Requirements" or column == "How to Apply") and "T" in suggested_shelters.at[shelter_index, "Here4You"].upper():
             continue
+
+        if column == "Congregate?" and "F" in suggested_shelters.at[shelter_index, column].upper():
+            to_return += f"## Non-congregate shelter\n"
+            continue
+        elif column == "Congregate?" and "T" in suggested_shelters.at[shelter_index, column].upper():
+            to_return += f"## Congregate shelter\n"
+            continue
         
         if column == "# of Units" and "T" in suggested_shelters.at[shelter_index, "Congregate?"].upper():
             to_return += f"## {column}: 1\n"
@@ -242,9 +248,13 @@ def create_shelter_information (shelter_name: str, suggested_shelters: pd.DataFr
 
         if column in columns_to_remove_if_null and "nan" in suggested_shelters.at[shelter_index, column]:
             continue
+
+        if column == "Rent / Program Fee" and "nan" in suggested_shelters.at[shelter_index, column]:
+            to_return += f"## {column}: Free\n"
+            continue
         
         if column == "Here4You" and "T" in suggested_shelters.at[shelter_index, "Here4You"].upper():
-            to_return += f"## Apply via Here4You ((408)-385-2400, available from 9 am to 7 pm)\n"
+            to_return += f"## Apply via Here4You ((408)-385-2400, available from 9 am to 7 pm, 7 days a week)\n"
             continue
         elif column == "Here4You" and "T" not in suggested_shelters.at[shelter_index, "Here4You"].upper():
             to_return += f"## Not available through Here4You\n"
