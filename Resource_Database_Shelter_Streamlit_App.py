@@ -9,7 +9,7 @@ button_session_states = ["next_button", "back_button", "clear_client_info"]
 
 st.write(st.session_state)
 
-dataframe_path = "Resource Database Datasets/[CLEANED] Santa Clara County Shelters- 11.5.24.csv"
+dataframe_path = "[CLEANED] Santa Clara County Shelters- 11.5.24.csv"
 
 client_information_inputs = [
     "Veterans",
